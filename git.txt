@@ -1,0 +1,8 @@
+git init - to initialize the repo.
+notespad name.txt
+git status - to see the status of the git 
+git add - to stage the file
+git commit -m "names.txt is committed"  to commit the file.
+
+Git: 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
+
